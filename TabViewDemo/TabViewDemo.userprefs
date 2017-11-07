@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B934E375-1D86-4323-B7B2-D496C8E6404A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabViewDemo/Views/AboutPage.xaml">
+    <Files>
+      <File FileName="TabViewDemo/Views/MainPage.cs" Line="1" Column="1" />
+      <File FileName="TabViewDemo/Views/AboutPage.xaml" Line="61" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TabViewDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.27962D8A-5686-4F39-89F5-AA5FD3CE1CF6">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TabViewDemo.iOS>
+</Properties>
